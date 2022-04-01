@@ -1,50 +1,294 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Zhang Chen"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<!-- <link href="../assets/css/bootstrap.min.css" rel="stylesheet"> -->
+<link href="../assets/css/bootstrap_custom.css" rel="stylesheet">
+<style>
+      /* body {
+        font-family: Roboto, 'sans-serif';
+        font-size: 16px;
+        background-color: #FFFFFF;
+        color: #4F6071;
+      } */
+      /* h1 {
+          font-weight: 300;
+          font-size: 2rem;
+      } */
+      /* #header {
+        background-color: #f4f4f4; */
+        /*background-color: #FFFFFF;*/
+        /* display: flex;
+        align-items: flex-end;
+        padding-top:60px;
+        padding-bottom:60px;
+      } */
+      /* #footer {
+        background-color: #FFFFFF;
+        padding:60px;
+      } */
+      /* #portrait {
+        border: 3px solid white;
+      } */
+      /* #header-text {
+        margin-top: 60px;
+        margin-left: 220px;
+      } */
+      /* #header-text-name {
+        font-size: 40px;
+      } */
+      /* #header-text-email {
+        font-size: 20px;
+        font-style: italic;
+      } */
+      /* .header-text-desc {
+        font-size: 20px;
+      } */
+      .vspace-top {
+        margin-top: 30px;
+      }
+      .vspace-top-news {
+          margin-top: 15px;
+      }
+      .paper-image {
+        width: 150px;
+      }
+      /* .news-date {
+          font-weight: bold;
+      } */
+      .paper-title {
+        font-weight: bold;
+      }
+      .paper-authors {
+        font-style: italic;
+      }
+</style>
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently a visiting scholar at [Louisiana State University](https://www.lsu.edu/), advised by [Prof. Jinwei Ye](https://www.lsu.edu/eng/cse/people/faculty/ye.php). I received my Ph.D. degree from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), advised by [Prof. Jingyi Yu](https://vic.shanghaitech.edu.cn/vrvc/en/people/jingyi-yu/). Before that, I received my Bachelor degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research interests lie in computer vision, computer graphics and computational photography, with a focus on 3D reconstruction and neural rendering.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
+Publications
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<div class='row vspace-top'>
+    <div class="col-sm-4">
+        <video width="100%" playsinline="" autoplay="" loop="" preload="" muted="">
+            <source src="../images/sofgan.mp4" type="video/mp4">
+        </video>
+    </div>
+    <div class="col">
+        <div class='paper-title'>
+            SofGAN: A Portrait Image Generator with Dynamic Styling
+        </div>
+        <div class='paper-desc'>
+            TOG 2022 (Present at SIGGRAPH 2022)
+        </div>
+        <div class='paper-authors'>
+            Anpei Chen*, Ruiyang Liu*, Ling Xie, <u>Zhang Chen</u>, Hao Su, Jingyi Yu
+        </div>
+        <div>
+            <a href="https://apchenstu.github.io/sofgan/">[project page]</a>
+            <a href="https://arxiv.org/abs/2007.03780">[paper]</a>
+            <a href="https://github.com/apchenstu/sofgan">[code]</a>
+        </div>
+    </div>
+</div>
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<div class='row vspace-top'>
+    <div class="col-sm-4">
+        <img src='../images/mdif.png' class='img-fluid'>
+    </div>
+    <div class="col">
+        <div class='paper-title'>
+            Multiresolution Deep Implicit Functions for 3D Shape Representation
+        </div>
+        <div class='paper-desc'>
+            ICCV 2021
+        </div>
+        <div class='paper-authors'>
+            <u>Zhang Chen</u>, Yinda Zhang, Kyle Genova, Sean Fanello, Sofien Bouaziz, Christian Haene, Ruofei Du, Cem Keskin, Thomas Funkhouser, Danhang Tang
+        </div>
+        <div>
+            <a href="https://arxiv.org/abs/2109.05591">[paper]</a>
+        </div>
+    </div>
+</div>
 
-**Markdown generator**
+<div class='row vspace-top'>
+    <div class="col-sm-4">
+        <img src='../images/deep_eyes_neurocomputing.png' class='img-fluid'>
+    </div>
+    <div class="col">
+        <div class='paper-title'>
+            Deep Eyes: Joint Depth Inference Using Monocular and Binocular Cues
+        </div>
+        <div class='paper-desc'>
+            Neurocomputing 2021
+        </div>
+        <div class='paper-authors'>
+            <u>Zhang Chen</u>*, Xinqing Guo*, Siyuan Li, Yang Yang, Jingyi Yu
+        </div>
+        <div>
+            <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231220313746">[paper]</a>
+            <a href="https://github.com/LansburyCH/Binocular-Focal-Stack">[data]</a>
+        </div>
+    </div>
+</div>
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+<div class='row vspace-top'>
+    <div class="col-sm-4">
+        <video width="100%" playsinline="" autoplay="" loop="" preload="" muted="">
+            <source src="../images/rnr.mp4" type="video/mp4">
+        </video>
+    </div>
+    <div class="col">
+        <div class='paper-title'>
+            A Neural Rendering Framework for Free-Viewpoint Relighting
+        </div>
+        <div class='paper-desc'>
+            CVPR 2020
+        </div>
+        <div class='paper-authors'>
+            <u>Zhang Chen</u>, Anpei Chen, Guli Zhang, Chengyuan Wang, Yu Ji, Kiriakos N. Kutulakos, Jingyi Yu
+        </div>
+        <div>
+            <a href="https://arxiv.org/abs/1911.11530">[paper]</a>
+            <a href="https://github.com/LansburyCH/relightable-nr">[code]</a>
+        </div>
+    </div>
+</div>
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+<div class='row vspace-top'>
+    <div class="col-sm-4">
+        <img src='../images/cps.png' class='img-fluid'>
+    </div>
+    <div class="col">
+        <div class='paper-title'>
+            3D Face Reconstruction Using Color Photometric Stereo with Uncalibrated Near Point Lights
+        </div>
+        <div class='paper-desc'>
+            ICCP 2020
+        </div>
+        <div class='paper-authors'>
+            <u>Zhang Chen</u>, Yu Ji, Mingyuan Zhou, Sing Bing Kang, Jingyi Yu
+        </div>
+        <div>
+            <a href="https://arxiv.org/abs/1904.02605">[paper]</a>
+        </div>
+    </div>
+</div>
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+<div class='row vspace-top'>
+    <div class="col-sm-4">
+        <img src='../images/facial_detail.png' class='img-fluid'>
+    </div>
+    <div class="col">
+        <div class='paper-title'>
+            Photo-Realistic Facial Details Synthesis From Single Image
+        </div>
+        <div class='paper-desc'>
+            ICCV 2019 (Oral)
+        </div>
+        <div class='paper-authors'>
+            Anpei Chen, <u>Zhang Chen</u>, Guli Zhang, Ziheng Zhang, Kenny Mitchell, Jingyi Yu
+        </div>
+        <div>
+            <a href="https://apchenstu.github.io/facial_details/">[project page]</a>
+            <a href="https://openaccess.thecvf.com/content_ICCV_2019/html/Chen_Photo-Realistic_Facial_Details_Synthesis_From_Single_Image_ICCV_2019_paper.html">[paper]</a>
+            <a href="https://github.com/apchenstu/Facial_Details_Synthesis">[code]</a>
+        </div>
+    </div>
+</div>
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<div class='row vspace-top'>
+    <div class="col-sm-4">
+        <img src='../images/deep_eyes_prcv.png' class='img-fluid'>
+    </div>
+    <div class="col">
+        <div class='paper-title'>
+            Deep Eyes: Binocular Depth-from-Focus on Focal Stack Pairs
+        </div>
+        <div class='paper-desc'>
+            PRCV 2019 (Oral)
+        </div>
+        <div class='paper-authors'>
+            Xinqing Guo*, <u>Zhang Chen</u>*, Siyuan Li, Yang Yang, Jingyi Yu
+        </div>
+        <div>
+            <a href="https://link.springer.com/chapter/10.1007/978-3-030-31726-3_30">[paper]</a>
+        </div>
+    </div>
+</div>
+
+<div class='row vspace-top'>
+    <div class="col-sm-4">
+        <video width="100%" playsinline="" autoplay="" loop="" preload="" muted="">
+            <source src="../images/wps.mp4" type="video/mp4">
+        </video>
+    </div>
+    <div class="col">
+        <div class='paper-title'>
+            Sparse Photometric 3D Face Reconstruction Guided by Morphable Models
+        </div>
+        <div class='paper-desc'>
+            CVPR 2018
+        </div>
+        <div class='paper-authors'>
+            Xuan Cao, <u>Zhang Chen</u>, Anpei Chen, Xin Chen, Shiying Li, Jingyi Yu
+        </div>
+        <div>
+            <a href="https://openaccess.thecvf.com/content_cvpr_2018/html/Cao_Sparse_Photometric_3D_CVPR_2018_paper.html">[paper]</a>
+        </div>
+    </div>
+</div>
+
+<div class='row vspace-top'>
+    <div class="col-sm-4">
+        <img src='../images/hs_todaes.png' class='img-fluid'>
+    </div>
+    <div class="col">
+        <div class='paper-title'>
+            How Secure Is Split Manufacturing in Preventing Hardware Trojan?
+        </div>
+        <div class='paper-desc'>
+            TODAES 2020
+        </div>
+        <div class='paper-authors'>
+            Yajun Yang, <u>Zhang Chen</u>, Yuan Liu, Tsung-Yi Ho, Yier Jin, Pingqiang Zhou
+        </div>
+        <div>
+            <a href="https://dl.acm.org/doi/abs/10.1145/3378163?casa_token=9zKcVtAW6l8AAAAA:mIx-ADc4LRaDiCU4q3jRPHDgqVOfB--UmAVUnhPJ3DddfE2_aeF4TjQZ29piSUcQy3EAOf8PWD3QIQ">[paper]</a>
+        </div>
+    </div>
+</div>
+
+<div class='row vspace-top'>
+    <div class="col-sm-4">
+        <img src='../images/hs_asianhost.png' class='img-fluid'>
+    </div>
+    <div class="col">
+        <div class='paper-title'>
+            How Secure Is Split Manufacturing in Preventing Hardware Trojan?
+        </div>
+        <div class='paper-desc'>
+            AsianHOST 2016
+        </div>
+        <div class='paper-authors'>
+            <u>Zhang Chen</u>, Pingqiang Zhou, Tsung-Yi Ho, Yier Jin
+        </div>
+        <div>
+            <a href="https://ieeexplore.ieee.org/abstract/document/7835561">[paper]</a>
+        </div>
+    </div>
+</div>
+
+<!-- ![left-aligned-image](../images/500x300.png){: .align-left}
+jgklfdjlsfhghldfhlsdfjlk
+{:style="clear: left"} -->
+
+<!-- {% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %} -->
