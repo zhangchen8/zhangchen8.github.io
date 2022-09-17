@@ -69,7 +69,7 @@ redirect_from:
       }
 </style>
 
-I am currently a visiting scholar at [Louisiana State University](https://www.lsu.edu/), advised by [Prof. Jinwei Ye](https://www.lsu.edu/eng/cse/people/faculty/ye.php). I received my Ph.D. degree from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), advised by [Prof. Jingyi Yu](https://vic.shanghaitech.edu.cn/vrvc/en/people/jingyi-yu/). Before that, I received my Bachelor degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research interests lie in computer vision, computer graphics and computational photography, with a focus on 3D reconstruction and neural rendering.
+I am currently a senior research engineer at [InnoPeak Technology](https://www.innopeaktech.com/). I received my Ph.D. degree from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), advised by [Prof. Jingyi Yu](https://vic.shanghaitech.edu.cn/vrvc/en/people/jingyi-yu/). Before that, I received my Bachelor degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research interests lie in computer vision, computer graphics and computational photography, with a focus on 3D reconstruction and neural rendering.
 
 Publications
 ------
