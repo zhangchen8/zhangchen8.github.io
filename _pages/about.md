@@ -63,35 +63,104 @@ redirect_from:
       } */
       .paper-title {
         font-weight: bold;
+        font-size: 16px;
       }
       .paper-authors {
         font-style: italic;
+        font-size: 16px;
+      }
+      .paper-desc {
+        font-size: 16px;
       }
 </style>
 
-I am currently a senior research engineer at [InnoPeak Technology](https://www.innopeaktech.com/). I received my Ph.D. degree from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), advised by [Prof. Jingyi Yu](https://vic.shanghaitech.edu.cn/vrvc/en/people/jingyi-yu/). Before that, I received my Bachelor degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research interests lie in computer vision, computer graphics and computational photography, with a focus on 3D reconstruction and neural rendering.
+I am currently a senior research engineer at [InnoPeak Technology](https://www.innopeaktech.com/). I received my Ph.D. from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), advised by [Prof. Jingyi Yu](https://vic.shanghaitech.edu.cn/vrvc/en/people/jingyi-yu/). Before that, I received my Bachelor's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research interests lie in computer vision, computer graphics and computational photography, with a focus on 3D reconstruction and neural rendering.
 
 Publications
 ------
 <div class='row vspace-top'>
     <div class="col-sm-4">
+        <img src='../images/2023_hand.png' class='img-fluid'>
+    </div>
+    <div class="col">
+        <div class='paper-title'>
+            High Fidelity 3D Hand Shape Reconstruction via Scalable Graph Frequency Decomposition
+        </div>
+        <div class='paper-authors'>
+            Tianyu Luan, Yuanhao Zhai, Jingjing Meng, Zhong Li, <u>Zhang Chen</u>, Yi Xu, Junsong Yuan
+        </div>
+        <div class='paper-desc'>
+            CVPR 2023
+        </div>
+        <div class='paper-desc'>
+            <a href="https://cse.buffalo.edu/~jsyuan/papers/2023/6034_high_fidelity_3d_hand_shape_re-Camera-ready%20PDF.pdf">[paper]</a>
+        </div>
+    </div>
+</div>
+
+<div class='row vspace-top'>
+    <div class="col-sm-4">
         <video width="100%" playsinline="" autoplay="" loop="" preload="" muted="">
-            <source src="../images/sofgan.mp4" type="video/mp4">
+            <source src="../images/2023_nerfplayer.mp4" type="video/mp4">
+        </video>
+    </div>
+    <div class="col">
+        <div class='paper-title'>
+            NeRFPlayer: A Streamable Dynamic Scene Representation with Decomposed Neural Radiance Fields
+        </div>
+        <div class='paper-authors'>
+            Liangchen Song, Anpei Chen, Zhong Li, <u>Zhang Chen</u>, Lele Chen, Junsong Yuan, Yi Xu, Andreas Geiger
+        </div>
+        <div class='paper-desc'>
+            IEEE VR (TVCG) 2023
+        </div>
+        <div class='paper-desc'>
+            <a href="https://arxiv.org/pdf/2210.15947.pdf">[paper]</a>
+            <a href="https://lsongx.github.io/projects/nerfplayer.html">[project page]</a>
+        </div>
+    </div>
+</div>
+
+<div class='row vspace-top'>
+    <div class="col-sm-4">
+        <img src='../images/2023_lf_piv.png' class='img-fluid'>
+    </div>
+    <div class="col">
+        <div class='paper-title'>
+            Full-Volume 3D Fluid Flow Reconstruction with Light Field PIV
+        </div>
+        <div class='paper-authors'>
+            Yuqi Ding, Zhong Li, <u>Zhang Chen</u>, Yu Ji, Jingyi Yu, Jinwei Ye
+        </div>
+        <div class='paper-desc'>
+            TPAMI 2023
+        </div>
+        <div class='paper-desc'>
+            <a href="https://ieeexplore.ieee.org/document/10015628">[paper]</a>
+            <a href="https://lightfieldpiv.github.io/">[project page]</a>
+        </div>
+    </div>
+</div>
+
+<div class='row vspace-top'>
+    <div class="col-sm-4">
+        <video width="100%" playsinline="" autoplay="" loop="" preload="" muted="">
+            <source src="../images/2022_sofgan.mp4" type="video/mp4">
         </video>
     </div>
     <div class="col">
         <div class='paper-title'>
             SofGAN: A Portrait Image Generator with Dynamic Styling
         </div>
-        <div class='paper-desc'>
-            TOG 2022 (Present at SIGGRAPH 2022)
-        </div>
         <div class='paper-authors'>
             Anpei Chen*, Ruiyang Liu*, Ling Xie, <u>Zhang Chen</u>, Hao Su, Jingyi Yu
         </div>
-        <div>
+        <div class='paper-desc'>
+            TOG 2022 (Present at SIGGRAPH 2022)
+        </div>
+        <div class='paper-desc'>
+            <a href="https://arxiv.org/pdf/2007.03780">[paper]</a>
             <a href="https://apchenstu.github.io/sofgan/">[project page]</a>
-            <a href="https://arxiv.org/abs/2007.03780">[paper]</a>
             <a href="https://github.com/apchenstu/sofgan">[code]</a>
         </div>
     </div>
@@ -99,39 +168,39 @@ Publications
 
 <div class='row vspace-top'>
     <div class="col-sm-4">
-        <img src='../images/mdif.png' class='img-fluid'>
+        <img src='../images/2021_mdif.png' class='img-fluid'>
     </div>
     <div class="col">
         <div class='paper-title'>
             Multiresolution Deep Implicit Functions for 3D Shape Representation
         </div>
-        <div class='paper-desc'>
-            ICCV 2021
-        </div>
         <div class='paper-authors'>
             <u>Zhang Chen</u>, Yinda Zhang, Kyle Genova, Sean Fanello, Sofien Bouaziz, Christian Haene, Ruofei Du, Cem Keskin, Thomas Funkhouser, Danhang Tang
         </div>
-        <div>
-            <a href="https://arxiv.org/abs/2109.05591">[paper]</a>
+        <div class='paper-desc'>
+            ICCV 2021
+        </div>
+        <div class='paper-desc'>
+            <a href="https://arxiv.org/pdf/2109.05591">[paper]</a>
         </div>
     </div>
 </div>
 
 <div class='row vspace-top'>
     <div class="col-sm-4">
-        <img src='../images/deep_eyes_neurocomputing.png' class='img-fluid'>
+        <img src='../images/2021_deep_eyes_neurocomputing.png' class='img-fluid'>
     </div>
     <div class="col">
         <div class='paper-title'>
             Deep Eyes: Joint Depth Inference Using Monocular and Binocular Cues
         </div>
-        <div class='paper-desc'>
-            Neurocomputing 2021
-        </div>
         <div class='paper-authors'>
             <u>Zhang Chen</u>*, Xinqing Guo*, Siyuan Li, Yang Yang, Jingyi Yu
         </div>
-        <div>
+        <div class='paper-desc'>
+            Neurocomputing 2021
+        </div>
+        <div class='paper-desc'>
             <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231220313746">[paper]</a>
             <a href="https://github.com/LansburyCH/Binocular-Focal-Stack">[data]</a>
         </div>
@@ -141,21 +210,21 @@ Publications
 <div class='row vspace-top'>
     <div class="col-sm-4">
         <video width="100%" playsinline="" autoplay="" loop="" preload="" muted="">
-            <source src="../images/rnr.mp4" type="video/mp4">
+            <source src="../images/2020_rnr.mp4" type="video/mp4">
         </video>
     </div>
     <div class="col">
         <div class='paper-title'>
             A Neural Rendering Framework for Free-Viewpoint Relighting
         </div>
-        <div class='paper-desc'>
-            CVPR 2020
-        </div>
         <div class='paper-authors'>
             <u>Zhang Chen</u>, Anpei Chen, Guli Zhang, Chengyuan Wang, Yu Ji, Kiriakos N. Kutulakos, Jingyi Yu
         </div>
-        <div>
-            <a href="https://arxiv.org/abs/1911.11530">[paper]</a>
+        <div class='paper-desc'>
+            CVPR 2020
+        </div>
+        <div class='paper-desc'>
+            <a href="https://arxiv.org/pdf/1911.11530">[paper]</a>
             <a href="https://github.com/LansburyCH/relightable-nr">[code]</a>
         </div>
     </div>
@@ -163,41 +232,41 @@ Publications
 
 <div class='row vspace-top'>
     <div class="col-sm-4">
-        <img src='../images/cps.png' class='img-fluid'>
+        <img src='../images/2020_cps.png' class='img-fluid'>
     </div>
     <div class="col">
         <div class='paper-title'>
             3D Face Reconstruction Using Color Photometric Stereo with Uncalibrated Near Point Lights
         </div>
-        <div class='paper-desc'>
-            ICCP 2020
-        </div>
         <div class='paper-authors'>
             <u>Zhang Chen</u>, Yu Ji, Mingyuan Zhou, Sing Bing Kang, Jingyi Yu
         </div>
-        <div>
-            <a href="https://arxiv.org/abs/1904.02605">[paper]</a>
+        <div class='paper-desc'>
+            ICCP 2020
+        </div>
+        <div class='paper-desc'>
+            <a href="https://arxiv.org/pdf/1904.02605">[paper]</a>
         </div>
     </div>
 </div>
 
 <div class='row vspace-top'>
     <div class="col-sm-4">
-        <img src='../images/facial_detail.png' class='img-fluid'>
+        <img src='../images/2019_facial_detail.png' class='img-fluid'>
     </div>
     <div class="col">
         <div class='paper-title'>
             Photo-Realistic Facial Details Synthesis From Single Image
         </div>
-        <div class='paper-desc'>
-            ICCV 2019 (Oral)
-        </div>
         <div class='paper-authors'>
             Anpei Chen, <u>Zhang Chen</u>, Guli Zhang, Ziheng Zhang, Kenny Mitchell, Jingyi Yu
         </div>
-        <div>
+        <div class='paper-desc'>
+            ICCV 2019 (Oral)
+        </div>
+        <div class='paper-desc'>
+            <a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Photo-Realistic_Facial_Details_Synthesis_From_Single_Image_ICCV_2019_paper.pdf">[paper]</a>
             <a href="https://apchenstu.github.io/facial_details/">[project page]</a>
-            <a href="https://openaccess.thecvf.com/content_ICCV_2019/html/Chen_Photo-Realistic_Facial_Details_Synthesis_From_Single_Image_ICCV_2019_paper.html">[paper]</a>
             <a href="https://github.com/apchenstu/Facial_Details_Synthesis">[code]</a>
         </div>
     </div>
@@ -205,19 +274,19 @@ Publications
 
 <div class='row vspace-top'>
     <div class="col-sm-4">
-        <img src='../images/deep_eyes_prcv.png' class='img-fluid'>
+        <img src='../images/2019_deep_eyes_prcv.png' class='img-fluid'>
     </div>
     <div class="col">
         <div class='paper-title'>
             Deep Eyes: Binocular Depth-from-Focus on Focal Stack Pairs
         </div>
-        <div class='paper-desc'>
-            PRCV 2019 (Oral)
-        </div>
         <div class='paper-authors'>
             Xinqing Guo*, <u>Zhang Chen</u>*, Siyuan Li, Yang Yang, Jingyi Yu
         </div>
-        <div>
+        <div class='paper-desc'>
+            PRCV 2019 (Oral)
+        </div>
+        <div class='paper-desc'>
             <a href="https://link.springer.com/chapter/10.1007/978-3-030-31726-3_30">[paper]</a>
         </div>
     </div>
@@ -226,40 +295,40 @@ Publications
 <div class='row vspace-top'>
     <div class="col-sm-4">
         <video width="100%" playsinline="" autoplay="" loop="" preload="" muted="">
-            <source src="../images/wps.mp4" type="video/mp4">
+            <source src="../images/2018_wps.mp4" type="video/mp4">
         </video>
     </div>
     <div class="col">
         <div class='paper-title'>
             Sparse Photometric 3D Face Reconstruction Guided by Morphable Models
         </div>
-        <div class='paper-desc'>
-            CVPR 2018
-        </div>
         <div class='paper-authors'>
             Xuan Cao, <u>Zhang Chen</u>, Anpei Chen, Xin Chen, Shiying Li, Jingyi Yu
         </div>
-        <div>
-            <a href="https://openaccess.thecvf.com/content_cvpr_2018/html/Cao_Sparse_Photometric_3D_CVPR_2018_paper.html">[paper]</a>
+        <div class='paper-desc'>
+            CVPR 2018
+        </div>
+        <div class='paper-desc'>
+            <a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Cao_Sparse_Photometric_3D_CVPR_2018_paper.pdf">[paper]</a>
         </div>
     </div>
 </div>
 
 <div class='row vspace-top'>
     <div class="col-sm-4">
-        <img src='../images/hs_todaes.png' class='img-fluid'>
+        <img src='../images/2020_hs_todaes.png' class='img-fluid'>
     </div>
     <div class="col">
         <div class='paper-title'>
             How Secure Is Split Manufacturing in Preventing Hardware Trojan?
         </div>
-        <div class='paper-desc'>
-            TODAES 2020
-        </div>
         <div class='paper-authors'>
             Yajun Yang, <u>Zhang Chen</u>, Yuan Liu, Tsung-Yi Ho, Yier Jin, Pingqiang Zhou
         </div>
-        <div>
+        <div class='paper-desc'>
+            TODAES 2020
+        </div>
+        <div class='paper-desc'>
             <a href="https://dl.acm.org/doi/abs/10.1145/3378163?casa_token=9zKcVtAW6l8AAAAA:mIx-ADc4LRaDiCU4q3jRPHDgqVOfB--UmAVUnhPJ3DddfE2_aeF4TjQZ29piSUcQy3EAOf8PWD3QIQ">[paper]</a>
         </div>
     </div>
@@ -267,19 +336,19 @@ Publications
 
 <div class='row vspace-top'>
     <div class="col-sm-4">
-        <img src='../images/hs_asianhost.png' class='img-fluid'>
+        <img src='../images/2016_hs_asianhost.png' class='img-fluid'>
     </div>
     <div class="col">
         <div class='paper-title'>
             How Secure Is Split Manufacturing in Preventing Hardware Trojan?
         </div>
-        <div class='paper-desc'>
-            AsianHOST 2016
-        </div>
         <div class='paper-authors'>
             <u>Zhang Chen</u>, Pingqiang Zhou, Tsung-Yi Ho, Yier Jin
         </div>
-        <div>
+        <div class='paper-desc'>
+            AsianHOST 2016
+        </div>
+        <div class='paper-desc'>
             <a href="https://ieeexplore.ieee.org/abstract/document/7835561">[paper]</a>
         </div>
     </div>
