@@ -80,6 +80,30 @@ Publications
 ------
 <div class='row vspace-top'>
     <div class="col-sm-4">
+        <video width="100%" playsinline="" autoplay="" loop="" preload="" muted="">
+            <source src="../images/2023_neurbf.mp4" type="video/mp4">
+        </video>
+    </div>
+    <div class="col">
+        <div class='paper-title'>
+            NeuRBF: A Neural Fields Representation with Adaptive Radial Basis Functions
+        </div>
+        <div class='paper-authors'>
+            <u>Zhang Chen</u>, Zhong Li, Liangchen Song, Lele Chen, Jingyi Yu, Junsong Yuan, Yi Xu
+        </div>
+        <div class='paper-desc'>
+            ICCV 2023 (Oral)
+        </div>
+        <div class='paper-desc'>
+            <a href="">[paper]</a>
+            <a href="https://oppo-us-research.github.io/NeuRBF-website/">[project page]</a>
+            <a href="https://github.com/oppo-us-research/NeuRBF">[code]</a>
+        </div>
+    </div>
+</div>
+
+<div class='row vspace-top'>
+    <div class="col-sm-4">
         <img src='../images/2023_hand.png' class='img-fluid'>
     </div>
     <div class="col">
