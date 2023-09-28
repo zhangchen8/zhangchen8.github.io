@@ -95,7 +95,7 @@ Publications
             ICCV 2023 (Oral)
         </div>
         <div class='paper-desc'>
-            <a href="">[paper]</a>
+            <a href="https://arxiv.org/abs/2309.15426">[paper]</a>
             <a href="https://oppo-us-research.github.io/NeuRBF-website/">[project page]</a>
             <a href="https://github.com/oppo-us-research/NeuRBF">[code]</a>
         </div>
