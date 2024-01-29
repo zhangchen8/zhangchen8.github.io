@@ -111,7 +111,7 @@ Publications
             Relit-NeuLF: Efficient Relighting and Novel View Synthesis via Neural 4D Light Field
         </div>
         <div class='paper-authors'>
-            Zhong Li, Liangchen Song, <u>Zhang Chen</u>, Xiangyu Du, Lele Chen, Junsong Yuan, Yi Xu
+            Zhong Li, Liangchen Song, <b>Zhang Chen</b>, Xiangyu Du, Lele Chen, Junsong Yuan, Yi Xu
         </div>
         <div class='paper-desc'>
             <b>ACM MM 2023</b>
@@ -133,7 +133,7 @@ Publications
             High Fidelity 3D Hand Shape Reconstruction via Scalable Graph Frequency Decomposition
         </div>
         <div class='paper-authors'>
-            Tianyu Luan, Yuanhao Zhai, Jingjing Meng, Zhong Li, <u>Zhang Chen</u>, Yi Xu, Junsong Yuan
+            Tianyu Luan, Yuanhao Zhai, Jingjing Meng, Zhong Li, <b>Zhang Chen</b>, Yi Xu, Junsong Yuan
         </div>
         <div class='paper-desc'>
             <b>CVPR 2023</b>
@@ -155,7 +155,7 @@ Publications
             NeRFPlayer: A Streamable Dynamic Scene Representation with Decomposed Neural Radiance Fields
         </div>
         <div class='paper-authors'>
-            Liangchen Song, Anpei Chen, Zhong Li, <u>Zhang Chen</u>, Lele Chen, Junsong Yuan, Yi Xu, Andreas Geiger
+            Liangchen Song, Anpei Chen, Zhong Li, <b>Zhang Chen</b>, Lele Chen, Junsong Yuan, Yi Xu, Andreas Geiger
         </div>
         <div class='paper-desc'>
             <b>TVCG (IEEE VR) 2023</b>
@@ -176,7 +176,7 @@ Publications
             Full-Volume 3D Fluid Flow Reconstruction with Light Field PIV
         </div>
         <div class='paper-authors'>
-            Yuqi Ding, Zhong Li, <u>Zhang Chen</u>, Yu Ji, Jingyi Yu, Jinwei Ye
+            Yuqi Ding, Zhong Li, <b>Zhang Chen</b>, Yu Ji, Jingyi Yu, Jinwei Ye
         </div>
         <div class='paper-desc'>
             <b>TPAMI 2023</b>
@@ -199,7 +199,7 @@ Publications
             SofGAN: A Portrait Image Generator with Dynamic Styling
         </div>
         <div class='paper-authors'>
-            Anpei Chen*, Ruiyang Liu*, Ling Xie, <u>Zhang Chen</u>, Hao Su, Jingyi Yu
+            Anpei Chen*, Ruiyang Liu*, Ling Xie, <b>Zhang Chen</b>, Hao Su, Jingyi Yu
         </div>
         <div class='paper-desc'>
             <b>TOG 2022 (Present at SIGGRAPH 2022)</b>
@@ -221,7 +221,7 @@ Publications
             Multiresolution Deep Implicit Functions for 3D Shape Representation
         </div>
         <div class='paper-authors'>
-            <u>Zhang Chen</u>, Yinda Zhang, Kyle Genova, Sean Fanello, Sofien Bouaziz, Christian Haene, Ruofei Du, Cem Keskin, Thomas Funkhouser, Danhang Tang
+            <b>Zhang Chen</b>, Yinda Zhang, Kyle Genova, Sean Fanello, Sofien Bouaziz, Christian Haene, Ruofei Du, Cem Keskin, Thomas Funkhouser, Danhang Tang
         </div>
         <div class='paper-desc'>
             <b>ICCV 2021</b>
@@ -241,7 +241,7 @@ Publications
             Deep Eyes: Joint Depth Inference Using Monocular and Binocular Cues
         </div>
         <div class='paper-authors'>
-            <u>Zhang Chen</u>*, Xinqing Guo*, Siyuan Li, Yang Yang, Jingyi Yu
+            <b>Zhang Chen</b>*, Xinqing Guo*, Siyuan Li, Yang Yang, Jingyi Yu
         </div>
         <div class='paper-desc'>
             <b>Neurocomputing 2021</b>
@@ -264,7 +264,7 @@ Publications
             A Neural Rendering Framework for Free-Viewpoint Relighting
         </div>
         <div class='paper-authors'>
-            <u>Zhang Chen</u>, Anpei Chen, Guli Zhang, Chengyuan Wang, Yu Ji, Kiriakos N. Kutulakos, Jingyi Yu
+            <b>Zhang Chen</b>, Anpei Chen, Guli Zhang, Chengyuan Wang, Yu Ji, Kiriakos N. Kutulakos, Jingyi Yu
         </div>
         <div class='paper-desc'>
             <b>CVPR 2020</b>
@@ -285,7 +285,7 @@ Publications
             3D Face Reconstruction Using Color Photometric Stereo with Uncalibrated Near Point Lights
         </div>
         <div class='paper-authors'>
-            <u>Zhang Chen</u>, Yu Ji, Mingyuan Zhou, Sing Bing Kang, Jingyi Yu
+            <b>Zhang Chen</b>, Yu Ji, Mingyuan Zhou, Sing Bing Kang, Jingyi Yu
         </div>
         <div class='paper-desc'>
             <b>ICCP 2020</b>
@@ -305,7 +305,7 @@ Publications
             Photo-Realistic Facial Details Synthesis From Single Image
         </div>
         <div class='paper-authors'>
-            Anpei Chen, <u>Zhang Chen</u>, Guli Zhang, Ziheng Zhang, Kenny Mitchell, Jingyi Yu
+            Anpei Chen, <b>Zhang Chen</b>, Guli Zhang, Ziheng Zhang, Kenny Mitchell, Jingyi Yu
         </div>
         <div class='paper-desc'>
             <b>ICCV 2019 (Oral)</b>
@@ -327,7 +327,7 @@ Publications
             Deep Eyes: Binocular Depth-from-Focus on Focal Stack Pairs
         </div>
         <div class='paper-authors'>
-            Xinqing Guo*, <u>Zhang Chen</u>*, Siyuan Li, Yang Yang, Jingyi Yu
+            Xinqing Guo*, <b>Zhang Chen</b>*, Siyuan Li, Yang Yang, Jingyi Yu
         </div>
         <div class='paper-desc'>
             <b>PRCV 2019 (Oral)</b>
@@ -349,7 +349,7 @@ Publications
             Sparse Photometric 3D Face Reconstruction Guided by Morphable Models
         </div>
         <div class='paper-authors'>
-            Xuan Cao, <u>Zhang Chen</u>, Anpei Chen, Xin Chen, Shiying Li, Jingyi Yu
+            Xuan Cao, <b>Zhang Chen</b>, Anpei Chen, Xin Chen, Shiying Li, Jingyi Yu
         </div>
         <div class='paper-desc'>
             <b>CVPR 2018</b>
@@ -369,7 +369,7 @@ Publications
             How Secure Is Split Manufacturing in Preventing Hardware Trojan?
         </div>
         <div class='paper-authors'>
-            Yajun Yang, <u>Zhang Chen</u>, Yuan Liu, Tsung-Yi Ho, Yier Jin, Pingqiang Zhou
+            Yajun Yang, <b>Zhang Chen</b>, Yuan Liu, Tsung-Yi Ho, Yier Jin, Pingqiang Zhou
         </div>
         <div class='paper-desc'>
             <b>TODAES 2020</b>
@@ -389,7 +389,7 @@ Publications
             How Secure Is Split Manufacturing in Preventing Hardware Trojan?
         </div>
         <div class='paper-authors'>
-            <u>Zhang Chen</u>, Pingqiang Zhou, Tsung-Yi Ho, Yier Jin
+            <b>Zhang Chen</b>, Pingqiang Zhou, Tsung-Yi Ho, Yier Jin
         </div>
         <div class='paper-desc'>
             <b>AsianHOST 2016</b>
