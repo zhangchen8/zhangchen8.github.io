@@ -89,15 +89,37 @@ Publications
             NeuRBF: A Neural Fields Representation with Adaptive Radial Basis Functions
         </div>
         <div class='paper-authors'>
-            <u>Zhang Chen</u>, Zhong Li, Liangchen Song, Lele Chen, Jingyi Yu, Junsong Yuan, Yi Xu
+            <b>Zhang Chen</b>, Zhong Li, Liangchen Song, Lele Chen, Jingyi Yu, Junsong Yuan, Yi Xu
         </div>
         <div class='paper-desc'>
-            ICCV 2023 (Oral)
+            <b>ICCV 2023 (Oral)</b>
         </div>
         <div class='paper-desc'>
             <a href="https://arxiv.org/pdf/2309.15426.pdf">[paper]</a>
             <a href="https://oppo-us-research.github.io/NeuRBF-website/">[project page]</a>
             <a href="https://github.com/oppo-us-research/NeuRBF">[code]</a>
+        </div>
+    </div>
+</div>
+
+<div class='row vspace-top'>
+    <div class="col-sm-4">
+        <img src='../images/2023_relit_neulf.gif' class='img-fluid'>
+    </div>
+    <div class="col">
+        <div class='paper-title'>
+            Relit-NeuLF: Efficient Relighting and Novel View Synthesis via Neural 4D Light Field
+        </div>
+        <div class='paper-authors'>
+            Zhong Li, Liangchen Song, <u>Zhang Chen</u>, Xiangyu Du, Lele Chen, Junsong Yuan, Yi Xu
+        </div>
+        <div class='paper-desc'>
+            <b>ACM MM 2023</b>
+        </div>
+        <div class='paper-desc'>
+            <a href="https://arxiv.org/pdf/2310.14642.pdf">[paper]</a>
+            <a href="https://oppo-us-research.github.io/RelitNeuLF-website/">[project page]</a>
+            <a href="https://github.com/oppo-us-research/RelitNeuLF">[code]</a>
         </div>
     </div>
 </div>
@@ -114,7 +136,7 @@ Publications
             Tianyu Luan, Yuanhao Zhai, Jingjing Meng, Zhong Li, <u>Zhang Chen</u>, Yi Xu, Junsong Yuan
         </div>
         <div class='paper-desc'>
-            CVPR 2023
+            <b>CVPR 2023</b>
         </div>
         <div class='paper-desc'>
             <a href="https://cse.buffalo.edu/~jsyuan/papers/2023/6034_high_fidelity_3d_hand_shape_re-Camera-ready%20PDF.pdf">[paper]</a>
@@ -136,7 +158,7 @@ Publications
             Liangchen Song, Anpei Chen, Zhong Li, <u>Zhang Chen</u>, Lele Chen, Junsong Yuan, Yi Xu, Andreas Geiger
         </div>
         <div class='paper-desc'>
-            IEEE VR (TVCG) 2023
+            <b>TVCG (IEEE VR) 2023</b>
         </div>
         <div class='paper-desc'>
             <a href="https://arxiv.org/pdf/2210.15947.pdf">[paper]</a>
@@ -157,7 +179,7 @@ Publications
             Yuqi Ding, Zhong Li, <u>Zhang Chen</u>, Yu Ji, Jingyi Yu, Jinwei Ye
         </div>
         <div class='paper-desc'>
-            TPAMI 2023
+            <b>TPAMI 2023</b>
         </div>
         <div class='paper-desc'>
             <a href="https://ieeexplore.ieee.org/document/10015628">[paper]</a>
@@ -180,7 +202,7 @@ Publications
             Anpei Chen*, Ruiyang Liu*, Ling Xie, <u>Zhang Chen</u>, Hao Su, Jingyi Yu
         </div>
         <div class='paper-desc'>
-            TOG 2022 (Present at SIGGRAPH 2022)
+            <b>TOG 2022 (Present at SIGGRAPH 2022)</b>
         </div>
         <div class='paper-desc'>
             <a href="https://arxiv.org/pdf/2007.03780">[paper]</a>
@@ -202,7 +224,7 @@ Publications
             <u>Zhang Chen</u>, Yinda Zhang, Kyle Genova, Sean Fanello, Sofien Bouaziz, Christian Haene, Ruofei Du, Cem Keskin, Thomas Funkhouser, Danhang Tang
         </div>
         <div class='paper-desc'>
-            ICCV 2021
+            <b>ICCV 2021</b>
         </div>
         <div class='paper-desc'>
             <a href="https://arxiv.org/pdf/2109.05591">[paper]</a>
@@ -222,7 +244,7 @@ Publications
             <u>Zhang Chen</u>*, Xinqing Guo*, Siyuan Li, Yang Yang, Jingyi Yu
         </div>
         <div class='paper-desc'>
-            Neurocomputing 2021
+            <b>Neurocomputing 2021</b>
         </div>
         <div class='paper-desc'>
             <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231220313746">[paper]</a>
@@ -245,7 +267,7 @@ Publications
             <u>Zhang Chen</u>, Anpei Chen, Guli Zhang, Chengyuan Wang, Yu Ji, Kiriakos N. Kutulakos, Jingyi Yu
         </div>
         <div class='paper-desc'>
-            CVPR 2020
+            <b>CVPR 2020</b>
         </div>
         <div class='paper-desc'>
             <a href="https://arxiv.org/pdf/1911.11530">[paper]</a>
@@ -266,7 +288,7 @@ Publications
             <u>Zhang Chen</u>, Yu Ji, Mingyuan Zhou, Sing Bing Kang, Jingyi Yu
         </div>
         <div class='paper-desc'>
-            ICCP 2020
+            <b>ICCP 2020</b>
         </div>
         <div class='paper-desc'>
             <a href="https://arxiv.org/pdf/1904.02605">[paper]</a>
@@ -286,7 +308,7 @@ Publications
             Anpei Chen, <u>Zhang Chen</u>, Guli Zhang, Ziheng Zhang, Kenny Mitchell, Jingyi Yu
         </div>
         <div class='paper-desc'>
-            ICCV 2019 (Oral)
+            <b>ICCV 2019 (Oral)</b>
         </div>
         <div class='paper-desc'>
             <a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Photo-Realistic_Facial_Details_Synthesis_From_Single_Image_ICCV_2019_paper.pdf">[paper]</a>
@@ -308,7 +330,7 @@ Publications
             Xinqing Guo*, <u>Zhang Chen</u>*, Siyuan Li, Yang Yang, Jingyi Yu
         </div>
         <div class='paper-desc'>
-            PRCV 2019 (Oral)
+            <b>PRCV 2019 (Oral)</b>
         </div>
         <div class='paper-desc'>
             <a href="https://link.springer.com/chapter/10.1007/978-3-030-31726-3_30">[paper]</a>
@@ -330,7 +352,7 @@ Publications
             Xuan Cao, <u>Zhang Chen</u>, Anpei Chen, Xin Chen, Shiying Li, Jingyi Yu
         </div>
         <div class='paper-desc'>
-            CVPR 2018
+            <b>CVPR 2018</b>
         </div>
         <div class='paper-desc'>
             <a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Cao_Sparse_Photometric_3D_CVPR_2018_paper.pdf">[paper]</a>
@@ -350,7 +372,7 @@ Publications
             Yajun Yang, <u>Zhang Chen</u>, Yuan Liu, Tsung-Yi Ho, Yier Jin, Pingqiang Zhou
         </div>
         <div class='paper-desc'>
-            TODAES 2020
+            <b>TODAES 2020</b>
         </div>
         <div class='paper-desc'>
             <a href="https://dl.acm.org/doi/abs/10.1145/3378163?casa_token=9zKcVtAW6l8AAAAA:mIx-ADc4LRaDiCU4q3jRPHDgqVOfB--UmAVUnhPJ3DddfE2_aeF4TjQZ29piSUcQy3EAOf8PWD3QIQ">[paper]</a>
@@ -370,7 +392,7 @@ Publications
             <u>Zhang Chen</u>, Pingqiang Zhou, Tsung-Yi Ho, Yier Jin
         </div>
         <div class='paper-desc'>
-            AsianHOST 2016
+            <b>AsianHOST 2016</b>
         </div>
         <div class='paper-desc'>
             <a href="https://ieeexplore.ieee.org/abstract/document/7835561">[paper]</a>
