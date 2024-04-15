@@ -76,8 +76,7 @@ redirect_from:
 
 I am currently a senior research engineer at [InnoPeak Technology](https://www.innopeaktech.com/). I received my Ph.D. from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), advised by [Prof. Jingyi Yu](https://vic.shanghaitech.edu.cn/vrvc/en/people/jingyi-yu/). Before that, I received my Bachelor's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research interests lie in computer vision, computer graphics, computational photography, and deep learning, with a focus on neural rendering and 3D reconstruction.
 
-Publications<br>
-<small>(*equal contribution, <sup>&dagger;</sup>corresponding author)</small>
+Publications<br><small>(*equal contribution, <sup>&dagger;</sup>corresponding author)</small>
 ------
 <div class='row vspace-top'>
     <div class="col-sm-4">
