@@ -76,7 +76,7 @@ redirect_from:
 
 I am currently a senior research engineer at [InnoPeak Technology](https://www.innopeaktech.com/). I received my Ph.D. from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), advised by [Prof. Jingyi Yu](https://vic.shanghaitech.edu.cn/vrvc/en/people/jingyi-yu/). Before that, I received my Bachelor's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research interests lie in computer vision, computer graphics, computational photography, and deep learning, with a focus on neural rendering and 3D reconstruction.
 
-Publications (*Equal contribution, <sup>&dagger;</sup>corresponding author)
+Publications <small>(*equal contribution, <sup>&dagger;</sup>corresponding author)</small>
 ------
 <div class='row vspace-top'>
     <div class="col-sm-4">
@@ -87,7 +87,7 @@ Publications (*Equal contribution, <sup>&dagger;</sup>corresponding author)
             Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis
         </div>
         <div class='paper-authors'>
-            Zhan Li, <b>Zhang Chen</b><sup>&dagger;</sup>, Zhong Li<sup>&dagger;</sup>, Yi Xu
+            Zhan Li, <b>Zhang Chen</b><b><sup>&dagger;</sup></b>, Zhong Li<b><sup>&dagger;</sup></b>, Yi Xu
         </div>
         <div class='paper-desc'>
             <b>CVPR 2024</b>
@@ -111,7 +111,7 @@ Publications (*Equal contribution, <sup>&dagger;</sup>corresponding author)
             NeuRBF: A Neural Fields Representation with Adaptive Radial Basis Functions
         </div>
         <div class='paper-authors'>
-            <b>Zhang Chen</b><sup>&dagger;</sup>, Zhong Li<sup>&dagger;</sup>, Liangchen Song, Lele Chen, Jingyi Yu, Junsong Yuan, Yi Xu
+            <b>Zhang Chen</b><b><sup>&dagger;</sup></b>, Zhong Li<b><sup>&dagger;</sup></b>, Liangchen Song, Lele Chen, Jingyi Yu, Junsong Yuan, Yi Xu
         </div>
         <div class='paper-desc'>
             <b>ICCV 2023 (Oral)</b>
@@ -221,7 +221,7 @@ Publications (*Equal contribution, <sup>&dagger;</sup>corresponding author)
             SofGAN: A Portrait Image Generator with Dynamic Styling
         </div>
         <div class='paper-authors'>
-            Anpei Chen*, Ruiyang Liu*, Ling Xie, <b>Zhang Chen</b>, Hao Su, Jingyi Yu
+            Anpei Chen<b>*</b>, Ruiyang Liu<b>*</b>, Ling Xie, <b>Zhang Chen</b>, Hao Su, Jingyi Yu
         </div>
         <div class='paper-desc'>
             <b>TOG 2022 (Present at SIGGRAPH 2022)</b>
@@ -263,7 +263,7 @@ Publications (*Equal contribution, <sup>&dagger;</sup>corresponding author)
             Deep Eyes: Joint Depth Inference Using Monocular and Binocular Cues
         </div>
         <div class='paper-authors'>
-            <b>Zhang Chen</b>*, Xinqing Guo*, Siyuan Li, Yang Yang, Jingyi Yu
+            <b>Zhang Chen</b><b>*</b>, Xinqing Guo<b>*</b>, Siyuan Li, Yang Yang, Jingyi Yu
         </div>
         <div class='paper-desc'>
             <b>Neurocomputing 2021</b>
@@ -349,7 +349,7 @@ Publications (*Equal contribution, <sup>&dagger;</sup>corresponding author)
             Deep Eyes: Binocular Depth-from-Focus on Focal Stack Pairs
         </div>
         <div class='paper-authors'>
-            Xinqing Guo*, <b>Zhang Chen</b>*, Siyuan Li, Yang Yang, Jingyi Yu
+            Xinqing Guo<b>*</b>, <b>Zhang Chen</b><b>*</b>, Siyuan Li, Yang Yang, Jingyi Yu
         </div>
         <div class='paper-desc'>
             <b>PRCV 2019 (Oral)</b>
