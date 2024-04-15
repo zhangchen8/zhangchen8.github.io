@@ -77,7 +77,30 @@ redirect_from:
 I am currently a senior research engineer at [InnoPeak Technology](https://www.innopeaktech.com/). I received my Ph.D. from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), advised by [Prof. Jingyi Yu](https://vic.shanghaitech.edu.cn/vrvc/en/people/jingyi-yu/). Before that, I received my Bachelor's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research interests lie in computer vision, computer graphics and computational photography, with a focus on 3D reconstruction and neural rendering.
 
 Publications
+(*Equal contribution, <sup>&dagger;</sup>corresponding author)
 ------
+<div class='row vspace-top'>
+    <div class="col-sm-4">
+        <img src='../images/2024_spacetime_gaussians.gif' class='img-fluid'>
+    </div>
+    <div class="col">
+        <div class='paper-title'>
+            Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis
+        </div>
+        <div class='paper-authors'>
+            Zhan Li, <b>Zhang Chen</b><sup>&dagger;</sup>, Zhong Li<sup>&dagger;</sup>, Yi Xu
+        </div>
+        <div class='paper-desc'>
+            <b>CVPR 2024</b>
+        </div>
+        <div class='paper-desc'>
+            <a href="https://arxiv.org/pdf/2312.16812.pdf">[paper]</a>
+            <a href="https://oppo-us-research.github.io/SpacetimeGaussians-website/">[project page]</a>
+            <a href="https://github.com/oppo-us-research/SpacetimeGaussians">[code]</a>
+        </div>
+    </div>
+</div>
+
 <div class='row vspace-top'>
     <div class="col-sm-4">
         <video width="100%" playsinline="" autoplay="" loop="" preload="" muted="">
@@ -89,7 +112,7 @@ Publications
             NeuRBF: A Neural Fields Representation with Adaptive Radial Basis Functions
         </div>
         <div class='paper-authors'>
-            <b>Zhang Chen</b>, Zhong Li, Liangchen Song, Lele Chen, Jingyi Yu, Junsong Yuan, Yi Xu
+            <b>Zhang Chen</b><sup>&dagger;</sup>, Zhong Li<sup>&dagger;</sup>, Liangchen Song, Lele Chen, Jingyi Yu, Junsong Yuan, Yi Xu
         </div>
         <div class='paper-desc'>
             <b>ICCV 2023 (Oral)</b>
