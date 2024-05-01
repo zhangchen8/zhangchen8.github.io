@@ -76,6 +76,8 @@ redirect_from:
 
 I am currently a <b>Senior Research Engineer/Scientist</b> at [InnoPeak Technology](https://www.innopeaktech.com/) (a.k.a. OPPO US Research Center), working on R&D for XR (AR/VR/MR) related projects. Before that, I was a visiting scholar / postdoctoral researcher at Louisiana State University, where I worked with Dr. Jinwei Ye. I received my Ph.D. from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), advised by [Prof. Jingyi Yu](https://vic.shanghaitech.edu.cn/vrvc/en/people/jingyi-yu/), and received my Bachelor's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research interests lie in computer vision, deep learning, computer graphics, and computational photography, with a focus on neural rendering, implicit neural representation, and 3D reconstruction.
 
+[CV](https://zhangchen8.github.io//files/CV_ZhangChen.pdf)
+
 Publications<br><small>(*Equal contribution, <sup>&dagger;</sup>corresponding author)</small>
 ------
 <div class='row vspace-top'>
