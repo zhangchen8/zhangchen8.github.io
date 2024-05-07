@@ -234,7 +234,7 @@ Publications<br><small>(*Equal contribution, <sup>&dagger;</sup>corresponding au
 
 <div class='row vspace-top'>
     <div class="col-sm-4">
-        <img src='../images/2023_lfuw3d.jpg' class='img-fluid'>
+        <img src='../images/2023_uwlf.jpg' class='img-fluid'>
     </div>
     <div class="col">
         <div class='paper-title'>
