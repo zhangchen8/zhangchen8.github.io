@@ -104,6 +104,26 @@ Publications<br><small>(*Equal contribution, <sup>&dagger;</sup>corresponding au
 
 <div class='row vspace-top'>
     <div class="col-sm-4">
+        <img src='../images/2024_phs.gif' class='img-fluid'>
+    </div>
+    <div class="col">
+        <div class='paper-title'>
+            Polarimetric Helmholtz Stereopsis
+        </div>
+        <div class='paper-authors'>
+            Yuqi Ding, Yu Ji, <b>Zhang Chen</b>, Mingyuan Zhou, Sing Bing Kang, Jinwei Ye
+        </div>
+        <div class='paper-desc'>
+            <b>TPAMI 2024</b>
+        </div>
+        <div class='paper-desc'>
+            <a href="https://www.computer.org/csdl/journal/tp/5555/01/10414400/1TZIH27x2xi">[paper]</a>
+        </div>
+    </div>
+</div>
+
+<div class='row vspace-top'>
+    <div class="col-sm-4">
         <video width="100%" playsinline="" autoplay="" loop="" preload="" muted="">
             <source src="../images/2023_neurbf.mp4" type="video/mp4">
         </video>
@@ -208,6 +228,26 @@ Publications<br><small>(*Equal contribution, <sup>&dagger;</sup>corresponding au
         <div class='paper-desc'>
             <a href="https://ieeexplore.ieee.org/document/10015628">[paper]</a>
             <a href="https://lightfieldpiv.github.io/">[project page]</a>
+        </div>
+    </div>
+</div>
+
+<div class='row vspace-top'>
+    <div class="col-sm-4">
+        <img src='../images/2023_lfuw3d.jpg' class='img-fluid'>
+    </div>
+    <div class="col">
+        <div class='paper-title'>
+            Light Field-Based Underwater 3D Reconstruction via Angular Resampling
+        </div>
+        <div class='paper-authors'>
+            Yuqi Ding, <b>Zhang Chen</b>, Yu Ji, Jingyi Yu, Jinwei Ye
+        </div>
+        <div class='paper-desc'>
+            <b>TCI 2023</b>
+        </div>
+        <div class='paper-desc'>
+            <a href="https://ieeexplore.ieee.org/abstract/document/10265154">[paper]</a>
         </div>
     </div>
 </div>
