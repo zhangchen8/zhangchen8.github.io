@@ -74,12 +74,33 @@ redirect_from:
       }
 </style>
 
-I am currently a <b>Senior Research Engineer/Scientist</b> at [InnoPeak Technology](https://www.innopeaktech.com/) (a.k.a. OPPO US Research Center), working on R&D for XR (AR/VR/MR) related projects. Before that, I was a visiting research scholar at Louisiana State University, where I worked with Dr. Jinwei Ye. I received my Ph.D. from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), advised by [Prof. Jingyi Yu](https://vic.shanghaitech.edu.cn/vrvc/en/people/jingyi-yu/), and received my Bachelor's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research interests lie in computer vision, deep learning, computer graphics, and computational photography, with a focus on neural rendering, implicit neural representation, and 3D reconstruction.
+I am a Research Engineer at Meta Codec Avatar Team. Previously, I was a Senior Research Engineer/Scientist at OPPO US Research Center. I received my Ph.D. from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), advised by [Prof. Jingyi Yu](https://vic.shanghaitech.edu.cn/vrvc/en/people/jingyi-yu/), and received my Bachelor's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research interests lie in computer vision, deep learning, computer graphics, and computational photography, with a focus on neural rendering, implicit neural representation, and 3D reconstruction.
 
 Download CV from [here](https://zhangchen8.github.io//files/CV_ZhangChen.pdf).
 
 Publications<br><small>(*Equal contribution, <sup>&dagger;</sup>corresponding author)</small>
 ------
+<div class='row vspace-top'>
+    <div class="col-sm-4">
+        <img src='../images/2024_panofree.png' class='img-fluid'>
+    </div>
+    <div class="col">
+        <div class='paper-title'>
+            PanoFree: Tuning-Free Holistic Multi-view Image Generation with Cross-view Self-Guidance
+        </div>
+        <div class='paper-authors'>
+            Aoming Liu, Zhong Li<b><sup>&dagger;</sup></b>, <b>Zhang Chen</b><b><sup>&dagger;</sup></b>, Nannan Li, Yi Xu, Bryan A. Plummer
+        </div>
+        <div class='paper-desc'>
+            <b>ECCV 2024</b>
+        </div>
+        <div class='paper-desc'>
+            <a href="https://arxiv.org/pdf/2408.02157">[paper]</a>
+            <a href="https://panofree.github.io/">[project page]</a>
+        </div>
+    </div>
+</div>
+
 <div class='row vspace-top'>
     <div class="col-sm-4">
         <img src='../images/2024_spacetime_gaussians.gif' class='img-fluid'>

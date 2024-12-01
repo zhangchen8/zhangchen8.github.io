@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Zhang Chen"
   avatar           : "me.png"
-  bio              : "Senior Research Engineer at InnoPeak Technology"
-  location         : "Palo Alto, CA"
+  bio              : "Research Engineer at Meta"
+  location         :
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=4MIbSrAAAAAJ&hl=en"
